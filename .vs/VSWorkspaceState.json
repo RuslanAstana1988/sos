@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ddd",
+    "\\lib"
   ],
-  "SelectedNode": "\\handler.js",
+  "SelectedNode": "\\lib",
   "PreviewInSolutionExplorer": false
 }
